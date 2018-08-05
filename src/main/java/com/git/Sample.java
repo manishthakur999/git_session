@@ -6,6 +6,10 @@ public class Sample {
 	{
 		System.out.println("show method");
 	}
+	void display()
+	{
+		System.out.println("display method");
+	}
 	void sum()
 	{
 		System.out.println("sum method");
